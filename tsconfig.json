@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "allowJs": true,
+    "sourceMap": true,
+    "target": "es5",
+    "importHelpers": true,
+    "alwaysStrict": true,
+    "lib": [
+      "DOM",
+      "ES5",
+      "ScriptHost",
+      "ES2015"
+    ]
+  }
+}

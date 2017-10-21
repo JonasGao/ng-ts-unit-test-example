@@ -1,0 +1,32 @@
+{
+  "name": "vo-resources",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@10.0.0.85:frontend/vo-resources.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.6.6"
+  },
+  "devDependencies": {
+    "@types/angular": "^1.6.34",
+    "@types/angular-mocks": "^1.5.11",
+    "@types/jasmine": "^2.6.0",
+    "angular-mocks": "^1.6.6",
+    "jasmine": "^2.8.0",
+    "karma": "^1.7.1",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-jasmine": "^1.1.0",
+    "karma-webpack": "^2.0.5",
+    "ts-loader": "^3.0.3",
+    "typescript": "^2.5.3",
+    "webpack": "^3.8.1"
+  }
+}
